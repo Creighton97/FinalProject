@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/wdd/webapps/LastTime-master/target/scala-2.12/routes/main/controllers/routes.java, /home/wdd/webapps/ITPROJECT-master/target/scala-2.12/routes/main/controllers/routes.java, /home/wdd/webapps/ITPROJECT/target/scala-2.12/routes/main/controllers/routes.java, /home/wdd/webapps/MyCA2/target/scala-2.12/routes/main/controllers/routes.java, /home/wdd/webapps/FinalDay/app/Models/Product.java, /home/wdd/webapps/CA2ITProject-master/app/controllers/HomeController.java, /home/wdd/webapps/CA2ITProject-master/target/scala-2.12/routes/main/controllers/routes.java, /home/wdd/webapps/ITPROJECT-master/app/Models/Product.java, /home/wdd/webapps/MyCA2/app/controllers/HomeController.java, /home/wdd/webapps/ITPROJECT/app/controllers/HomeController.java, /home/wdd/webapps/ITPROJECT-master/app/controllers/HomeController.java, /home/wdd/webapps/FinalDay/app/controllers/HomeController.java, /home/wdd/webapps/LastTime-master/app/controllers/HomeController.java, /home/wdd/webapps/FinalDay/target/scala-2.12/routes/main/controllers/routes.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/wdd/FinalDay-master/app/Models/category.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/wdd/FinalDay-master/app/Models/Product.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/wdd/FinalDay-master/app/Models/category.java, /home/wdd/FinalDay-master/app/Models/Product.java)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Java sources to /home/wdd/FinalDay-master/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@38e9e65d directly...[0m
+[0m[[0m[31merror[0m] [0m[0m(compile:[31mcompileIncremental[0m) javac returned non-zero exit code[0m
